@@ -4,6 +4,10 @@ Watch movies by categories and their trailers
 ![img-1](https://user-images.githubusercontent.com/77751686/229310262-3d5c2c78-3b23-4879-aaa3-6728002ac45a.png)
 
 ## Table of contents
+* [Technologies](#technologies)
+* [Requirements](#requirements)
+* [Setup](#setup)
+* [Run project](#run-project)
 
 ## Technologies
 * [React](https://react.dev/)
@@ -18,12 +22,13 @@ You must install [Node.js version >=16.4.0 < 17.0.0](https://nodejs.dev/en/about
 git clone https://github.com/LancerR40/netflix-clone
 ```
 
-## Setup & run project
+## Setup
 ```$
-## Install dependencies
 cd netflix-clone &&
-yarn &&
+yarn
+```
 
 ## Run project
+```$
 yarn start
 ```
