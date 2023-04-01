@@ -1,5 +1,5 @@
 # Netflix Front-End
-Watch movies by categories and their trailers
+Movies by categories and their trailers
 
 ![img-1](https://user-images.githubusercontent.com/77751686/229310262-3d5c2c78-3b23-4879-aaa3-6728002ac45a.png)
 
